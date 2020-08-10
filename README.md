@@ -1,6 +1,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leandrostl)](https://github.com/leandrostl)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro.stlima/)](https://www.linkedin.com/in/leandro.stlima/)
+[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fleandrostl)](https://twitter.com/leandrostl)
 <a href="https://dev.to/leandrostl">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Leandro Lima's DEV Profile" height="20" width="20">
 </a>
