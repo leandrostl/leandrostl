@@ -1,7 +1,15 @@
-![octocat](octocat.png)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leandrostl)](https://github.com/leandrostl)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro.stlima/)](https://www.linkedin.com/in/leandro.stlima/)
-[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fleandrostl)](https://twitter.com/leandrostl)
+<img href src="./octocat.png" alt="octocat" height="500" width="500">
+
+<a href="https://github.com/leandrostl">
+  <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leandrostl">
+</a>
+<a href="https://www.linkedin.com/in/leandro.stlima/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro.stlima/">
+</a>
+</a>
+<a href="https://twitter.com/leandrostl">
+  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fleandrostl">
+</a>
 <a href="https://dev.to/leandrostl">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Leandro Lima's DEV Profile" height="20" width="20">
 </a>
