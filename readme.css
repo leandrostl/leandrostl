@@ -1,0 +1,4 @@
+img[alt="my own octocat"] { 
+  max-width:  300px; 
+  display: block;
+}
