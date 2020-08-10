@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 <br />
-I love to talk to and know people, learn about almost everything, and teach. I'm a developer passionate about Java and have been programming with that language for more than ten years! I like ballroom dances, handcraft made beer and [cheese from Minas Gerais](https://portaldoqueijo.com.br/gastronomia/harmonizacao/2017/05/15/sugestao-queijo-do-serro), and, as a good developer, I also use to transform coffee in code!
+I love to talk to and know people, learn about almost everything, and teach. I'm a developer passionate about Java and have been programming with that language for more than ten years! I like ballroom dances, handcraft made beer and <a href="https://portaldoqueijo.com.br/gastronomia/harmonizacao/2017/05/15/sugestao-queijo-do-serro">cheeses from Minas Gerais</a>, and, as a good developer, I also use to transform coffee in code!
 
 Here are some ideas to get you started:
 
