@@ -1,4 +1,7 @@
-<img href src="https://github.com/leandrostl/leandrostl/blob/master/octocat.png" alt="octocat" height="500" width="500">
+<p align="center">
+  <img href src="https://github.com/leandrostl/leandrostl/blob/master/octocat.png" alt="octocat" height="500" width="500">
+</p>
+
 
 <a href="https://github.com/leandrostl">
   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leandrostl">
